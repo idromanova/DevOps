@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2021-02-16T13:02:12.029Z"
+         lastModifiedDate="2021-02-16T13:10:50.997Z"
          name="TestThing"
          projectName="Simulator"
          published="false"
@@ -65,7 +65,7 @@
                                     <Row>
                                         <code>
                                         <![CDATA[
-                                        rams = {
+                                        var params = {
                                             infoTableName : "InfoTable",
                                             dataShapeName : "TestResultData"
                                         };
